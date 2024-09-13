@@ -1,0 +1,50 @@
+{
+  "name": "coolink-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.4.10",
+    "@headlessui/react": "^1.4.1",
+    "apollo-link-error": "^1.1.13",
+    "apollo-link-token-refresh": "^0.3.2",
+    "apollo-upload-client": "^16.0.0",
+    "base64-arraybuffer": "^1.0.1",
+    "emoji-mart": "^3.0.1",
+    "formik": "^2.2.9",
+    "fuse.js": "^6.4.6",
+    "graphql": "^15.5.3",
+    "jwt-decode": "^3.1.2",
+    "keen-slider": "^5.5.1",
+    "leaflet": "^1.7.1",
+    "next": "11.1.2",
+    "next-pwa": "^5.3.1",
+    "next-seo": "^4.26.0",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-dom": "17.0.2",
+    "react-hot-toast": "^2.1.1",
+    "react-leaflet": "^3.2.1",
+    "react-palette": "^1.0.2",
+    "react-virtualized": "^9.22.3",
+    "sharp": "^0.29.1",
+    "tailwindcss-rtl": "^0.7.3",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.20",
+    "autoprefixer": "^10.3.4",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.13"
+  }
+}
